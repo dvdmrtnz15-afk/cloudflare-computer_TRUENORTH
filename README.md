@@ -129,3 +129,8 @@ If you're working in this repo as an agent, start with
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
+
+## Terminology and evidence
+
+See [Terminology and evidence](TERMINOLOGY.md) for naming, compatibility and
+evidence conventions used in new work.
